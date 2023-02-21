@@ -1,0 +1,2 @@
+#bosluk
+deneme = "string"
